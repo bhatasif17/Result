@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <_EnableMacOSCodeSign>false</_EnableMacOSCodeSign>
+        <Description>A library for returning common method types in .NET</Description>
+        <PackageId>Accepire.Result</PackageId>
+        <Authors>Asif Bhat</Authors>
+        <PackageProjectUrl></PackageProjectUrl>
+        <Copyright>Opensource</Copyright>
+        
+    </PropertyGroup>
+
+</Project>
